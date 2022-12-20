@@ -13,3 +13,5 @@ tnwjddd
 what has changed
 this is branch 'ver2' app.txt
 so this file is not anymore same with file in main branch
+main, r r think you are original branch?
+i dont know either
