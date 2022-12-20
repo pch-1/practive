@@ -11,3 +11,6 @@ tnwjddd
 
 
 what has changed
+
+this is main branch
+this file is different with ver2 branch's app.txt
